@@ -1,2 +1,2 @@
-# mega-virada
+# Mega da Virada
 Gerador de jogos aleatórios para ver se algum dos N gerados foi o sorteado
